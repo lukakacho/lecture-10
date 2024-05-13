@@ -6,8 +6,7 @@ body {
 }
 
 header {
-    height: 60px;
-    width: 100%;  
+    padding: 15px 0;
 }
 
 .div {
@@ -17,8 +16,9 @@ header {
     font-size: 17px;
     font-weight: 400px;
     color: #636060;
-    margin-top: 24px;
-
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .owl {
