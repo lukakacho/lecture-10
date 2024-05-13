@@ -1,0 +1,44 @@
+@media only screen and (max-width: 900px) {
+    .div1 {
+    display: none;
+  }
+  .fa-bars {
+    display: block !important;
+    marg
+  }
+  .div {
+    justify-content: space-between
+  }
+}
+
+@media screen and (max-width: 1515px) {
+  .city {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1420px) {
+  .p2 {
+    margin-right: aut;
+  }
+  .line1 {
+    width: 400px;
+  }
+  .line2 {
+    width: 400px;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1375px) {
+  .line1 {
+     width: 400px;
+  }
+}
+
+@media screen and (max-width: 1224px) {
+
+  .line2 {
+    justify-content: center;
+  }
+}
